@@ -18,7 +18,7 @@
 5. 可重入锁的含义，以及ReentrantLock 和synchronized的区别？
 6. 同步的数据结构，例如concurrentHashMap的源码理解以及内部实现原理，为什么他是同步的且效率高
 7. atomicinteger和volatile等线程安全操作的关键字的理解和使用    
- 
+
 8. 线程间通信，wait和notify
 
 
@@ -49,6 +49,8 @@
 4. 性能监控都做过哪些？
 5. jvm、tomcat性能调优；
 6. oracle数据库性能优化；
+7. mysql分库分表方案；
+8. nosql/newsql使用；
 
 # 其他
 1. 敏捷开发有哪些实践
@@ -58,7 +60,7 @@
 5. 项目质量管理，有没有QA
 2. 架构师职责及工作方法
 3. 如果设计一个系统或产品的技术架构，包含架构设计与选型
- 
 
- 
+
+
 
